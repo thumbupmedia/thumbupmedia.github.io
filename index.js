@@ -59,7 +59,7 @@ eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=w
   \************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("var pug = __webpack_require__(/*! !../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_html = pug_html + \"\\u003Cdiv class=\\\"carousel slide\\\" id=\\\"carouselExampleControls\\\" data-bs-ride=\\\"carousel\\\"\\u003E\\u003Cdiv class=\\\"carousel-inner\\\"\\u003E\\u003Cdiv class=\\\"carousel-item active\\\"\\u003E\\u003Cimg\" + (\" class=\\\"d-block w-100\\\"\"+pug.attr(\"src\", __webpack_require__(/*! ../../../../../res/gfx/Thumbs/games/especial-1mes.png */ \"./res/gfx/Thumbs/games/especial-1mes.png\"), true, true)+\" alt=\\\"First slide\\\"\") + \"\\u003E\\u003C\\u002Fdiv\\u003E\\u003Cdiv class=\\\"carousel-item\\\"\\u003E\\u003Cimg\" + (\" class=\\\"d-block w-100\\\"\"+pug.attr(\"src\", __webpack_require__(/*! ../../../../../res/gfx/Thumbs/games/celeste.png */ \"./res/gfx/Thumbs/games/celeste.png\"), true, true)+\" alt=\\\"Second slide\\\"\") + \"\\u003E\\u003C\\u002Fdiv\\u003E\\u003Cdiv class=\\\"carousel-item\\\"\\u003E\\u003Cimg\" + (\" class=\\\"d-block w-100\\\"\"+pug.attr(\"src\", __webpack_require__(/*! ../../../../../res/gfx/Thumbs/animes/tanjiro.png */ \"./res/gfx/Thumbs/animes/tanjiro.png\"), true, true)+\" alt=\\\"Third slide\\\"\") + \"\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003Cbutton class=\\\"carousel-control-prev\\\" type=\\\"button\\\" data-bs-target=\\\"#carouselExampleControls\\\" role=\\\"button\\\" data-slide=\\\"prev\\\" data-bs-slide=\\\"prev\\\"\\u003E\\u003Cspan class=\\\"carousel-control-prev-icon\\\" aria-hidden=\\\"true\\\"\\u003E\\u003C\\u002Fspan\\u003E\\u003Cspan class=\\\"visually-hidden\\\"\\u003EPrevious\\u003C\\u002Fspan\\u003E\\u003C\\u002Fbutton\\u003E\\u003Cbutton class=\\\"carousel-control-next\\\" type=\\\"button\\\" data-bs-target=\\\"#carouselExampleControls\\\" data-bs-slide=\\\"next\\\"\\u003E\\u003Cspan class=\\\"carousel-control-next-icon\\\" aria-hidden=\\\"true\\\"\\u003E\\u003C\\u002Fspan\\u003E\\u003Cspan class=\\\"visually-hidden\\\"\\u003ENext\\u003C\\u002Fspan\\u003E\\u003C\\u002Fbutton\\u003E\\u003C\\u002Fdiv\\u003E\";;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/carrossel.pug?");
+eval("var pug = __webpack_require__(/*! !../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_html = pug_html + \"\\u003Cdiv class=\\\"carousel slide\\\" id=\\\"carouselExampleControls\\\" data-bs-ride=\\\"carousel\\\"\\u003E\\u003Cdiv class=\\\"carousel-inner\\\"\\u003E\\u003Cdiv class=\\\"carousel-item active\\\"\\u003E\\u003Cimg\" + (\" class=\\\"d-block w-100\\\"\"+pug.attr(\"src\", __webpack_require__(/*! ../../../../../res/gfx/thumbs/games/especial-1mes.png */ \"./res/gfx/thumbs/games/especial-1mes.png\"), true, true)+\" alt=\\\"First slide\\\"\") + \"\\u003E\\u003C\\u002Fdiv\\u003E\\u003Cdiv class=\\\"carousel-item\\\"\\u003E\\u003Cimg\" + (\" class=\\\"d-block w-100\\\"\"+pug.attr(\"src\", __webpack_require__(/*! ../../../../../res/gfx/thumbs/games/celeste2.png */ \"./res/gfx/thumbs/games/celeste2.png\"), true, true)+\" alt=\\\"Second slide\\\"\") + \"\\u003E\\u003C\\u002Fdiv\\u003E\\u003Cdiv class=\\\"carousel-item\\\"\\u003E\\u003Cimg\" + (\" class=\\\"d-block w-100\\\"\"+pug.attr(\"src\", __webpack_require__(/*! ../../../../../res/gfx/thumbs/animes/tanjiro.png */ \"./res/gfx/thumbs/animes/tanjiro.png\"), true, true)+\" alt=\\\"Third slide\\\"\") + \"\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003Cbutton class=\\\"carousel-control-prev\\\" type=\\\"button\\\" data-bs-target=\\\"#carouselExampleControls\\\" role=\\\"button\\\" data-slide=\\\"prev\\\" data-bs-slide=\\\"prev\\\"\\u003E\\u003Cspan class=\\\"carousel-control-prev-icon\\\" aria-hidden=\\\"true\\\"\\u003E\\u003C\\u002Fspan\\u003E\\u003Cspan class=\\\"visually-hidden\\\"\\u003EPrevious\\u003C\\u002Fspan\\u003E\\u003C\\u002Fbutton\\u003E\\u003Cbutton class=\\\"carousel-control-next\\\" type=\\\"button\\\" data-bs-target=\\\"#carouselExampleControls\\\" data-bs-slide=\\\"next\\\"\\u003E\\u003Cspan class=\\\"carousel-control-next-icon\\\" aria-hidden=\\\"true\\\"\\u003E\\u003C\\u002Fspan\\u003E\\u003Cspan class=\\\"visually-hidden\\\"\\u003ENext\\u003C\\u002Fspan\\u003E\\u003C\\u002Fbutton\\u003E\\u003C\\u002Fdiv\\u003E\";;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/carrossel.pug?");
 
 /***/ }),
 
@@ -109,7 +109,7 @@ eval("var pug = __webpack_require__(/*! !../../../node_modules/pug-runtime/index
   \*******************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_mixins[\"gerarportfolio\"] = pug_interp = function(id, nome){\nvar block = (this && this.block), attributes = (this && this.attributes) || {};\nvar imagens = [];\nfor (pug_interp = 2; pug_interp < arguments.length; pug_interp++) {\n  imagens.push(arguments[pug_interp]);\n}\npug_html = pug_html + \"\\u003Cdiv\" + (\" class=\\\"page\\\"\"+pug.attr(\"id\", 'page-thumbs-'+id, true, true)) + \"\\u003E \\u003Ch3 class=\\\"title\\\"\\u003E\" + (pug.escape(null == (pug_interp = nome) ? \"\" : pug_interp)) + \"\\u003C\\u002Fh3\\u003E\\u003Cdiv class=\\\"container portfolio\\\"\\u003E\\u003Cdiv class=\\\"row align-items-start\\\"\\u003E \";\n// iterate imagens\n;(function(){\n  var $$obj = imagens;\n  if ('number' == typeof $$obj.length) {\n      for (var pug_index0 = 0, $$l = $$obj.length; pug_index0 < $$l; pug_index0++) {\n        var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/Thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n      }\n  } else {\n    var $$l = 0;\n    for (var pug_index0 in $$obj) {\n      $$l++;\n      var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/Thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n    }\n  }\n}).call(this);\n\npug_html = pug_html + \"\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\";\n};\npug_mixins[\"gerarportfolio\"]('animes', 'Thumbs Animes', 'apelativo.png', 'rikka.png', 'ishida.png', 'zenitsu.png', 'tanjiro.png', 'nezuko.png' ,   'kaigaku.png', 'rengoku.png' , 'baki.png', 'megumin.png', 'aqua.png', 'komisan.png');;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/page/portfolio/thumbs-animes.pug?");
+eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_mixins[\"gerarportfolio\"] = pug_interp = function(id, nome){\nvar block = (this && this.block), attributes = (this && this.attributes) || {};\nvar imagens = [];\nfor (pug_interp = 2; pug_interp < arguments.length; pug_interp++) {\n  imagens.push(arguments[pug_interp]);\n}\npug_html = pug_html + \"\\u003Cdiv\" + (\" class=\\\"page\\\"\"+pug.attr(\"id\", 'page-thumbs-'+id, true, true)) + \"\\u003E \\u003Ch3 class=\\\"title\\\"\\u003E\" + (pug.escape(null == (pug_interp = nome) ? \"\" : pug_interp)) + \"\\u003C\\u002Fh3\\u003E\\u003Cdiv class=\\\"container portfolio\\\"\\u003E\\u003Cdiv class=\\\"row align-items-start\\\"\\u003E \";\n// iterate imagens\n;(function(){\n  var $$obj = imagens;\n  if ('number' == typeof $$obj.length) {\n      for (var pug_index0 = 0, $$l = $$obj.length; pug_index0 < $$l; pug_index0++) {\n        var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n      }\n  } else {\n    var $$l = 0;\n    for (var pug_index0 in $$obj) {\n      $$l++;\n      var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n    }\n  }\n}).call(this);\n\npug_html = pug_html + \"\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\";\n};\npug_mixins[\"gerarportfolio\"]('animes', 'thumbs Animes', 'dororo.png', 'komi-san.png', 'kaigaku.png','apelativo.png', 'rikka.png', 'muzan.png', 'zenitsu.png', 'tanjiro.png', 'nezuko.png' , 'rengoku.png' , 'baki.png', 'megumin.png', 'aqua.png', 'ishida.png');;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/page/portfolio/thumbs-animes.pug?");
 
 /***/ }),
 
@@ -119,7 +119,7 @@ eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/in
   \******************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_mixins[\"gerarportfolio\"] = pug_interp = function(id, nome){\nvar block = (this && this.block), attributes = (this && this.attributes) || {};\nvar imagens = [];\nfor (pug_interp = 2; pug_interp < arguments.length; pug_interp++) {\n  imagens.push(arguments[pug_interp]);\n}\npug_html = pug_html + \"\\u003Cdiv\" + (\" class=\\\"page\\\"\"+pug.attr(\"id\", 'page-thumbs-'+id, true, true)) + \"\\u003E \\u003Ch3 class=\\\"title\\\"\\u003E\" + (pug.escape(null == (pug_interp = nome) ? \"\" : pug_interp)) + \"\\u003C\\u002Fh3\\u003E\\u003Cdiv class=\\\"container portfolio\\\"\\u003E\\u003Cdiv class=\\\"row align-items-start\\\"\\u003E \";\n// iterate imagens\n;(function(){\n  var $$obj = imagens;\n  if ('number' == typeof $$obj.length) {\n      for (var pug_index0 = 0, $$l = $$obj.length; pug_index0 < $$l; pug_index0++) {\n        var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/Thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n      }\n  } else {\n    var $$l = 0;\n    for (var pug_index0 in $$obj) {\n      $$l++;\n      var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/Thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n    }\n  }\n}).call(this);\n\npug_html = pug_html + \"\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\";\n};\npug_mixins[\"gerarportfolio\"]('games', 'Thumbs Games', 'especial-1mes.png', 'casa-medieval.png', 'live-on.png', 'skywars.png', 'celeste.png', 'terraria.png', 'darksouls.png', 'farcry6.png');;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/page/portfolio/thumbs-games.pug?");
+eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_mixins[\"gerarportfolio\"] = pug_interp = function(id, nome){\nvar block = (this && this.block), attributes = (this && this.attributes) || {};\nvar imagens = [];\nfor (pug_interp = 2; pug_interp < arguments.length; pug_interp++) {\n  imagens.push(arguments[pug_interp]);\n}\npug_html = pug_html + \"\\u003Cdiv\" + (\" class=\\\"page\\\"\"+pug.attr(\"id\", 'page-thumbs-'+id, true, true)) + \"\\u003E \\u003Ch3 class=\\\"title\\\"\\u003E\" + (pug.escape(null == (pug_interp = nome) ? \"\" : pug_interp)) + \"\\u003C\\u002Fh3\\u003E\\u003Cdiv class=\\\"container portfolio\\\"\\u003E\\u003Cdiv class=\\\"row align-items-start\\\"\\u003E \";\n// iterate imagens\n;(function(){\n  var $$obj = imagens;\n  if ('number' == typeof $$obj.length) {\n      for (var pug_index0 = 0, $$l = $$obj.length; pug_index0 < $$l; pug_index0++) {\n        var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n      }\n  } else {\n    var $$l = 0;\n    for (var pug_index0 in $$obj) {\n      $$l++;\n      var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n    }\n  }\n}).call(this);\n\npug_html = pug_html + \"\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\";\n};\npug_mixins[\"gerarportfolio\"]('games', 'thumbs Games', 'especial-1mes.png', 'casa-medieval.png', 'blaze.png', 'live-on.png', 'skywars.png', 'celeste2.png', 'darksouls.png', 'farcry6.png', 'terraria.png');;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/page/portfolio/thumbs-games.pug?");
 
 /***/ }),
 
@@ -129,7 +129,7 @@ eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/in
   \*******************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_mixins[\"gerarportfolio\"] = pug_interp = function(id, nome){\nvar block = (this && this.block), attributes = (this && this.attributes) || {};\nvar imagens = [];\nfor (pug_interp = 2; pug_interp < arguments.length; pug_interp++) {\n  imagens.push(arguments[pug_interp]);\n}\npug_html = pug_html + \"\\u003Cdiv\" + (\" class=\\\"page\\\"\"+pug.attr(\"id\", 'page-thumbs-'+id, true, true)) + \"\\u003E \\u003Ch3 class=\\\"title\\\"\\u003E\" + (pug.escape(null == (pug_interp = nome) ? \"\" : pug_interp)) + \"\\u003C\\u002Fh3\\u003E\\u003Cdiv class=\\\"container portfolio\\\"\\u003E\\u003Cdiv class=\\\"row align-items-start\\\"\\u003E \";\n// iterate imagens\n;(function(){\n  var $$obj = imagens;\n  if ('number' == typeof $$obj.length) {\n      for (var pug_index0 = 0, $$l = $$obj.length; pug_index0 < $$l; pug_index0++) {\n        var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/Thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n      }\n  } else {\n    var $$l = 0;\n    for (var pug_index0 in $$obj) {\n      $$l++;\n      var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/Thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n    }\n  }\n}).call(this);\n\npug_html = pug_html + \"\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\";\n};\npug_mixins[\"gerarportfolio\"]('outros', 'Thumbs Outros', 'pudim.png');;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/page/portfolio/thumbs-outros.pug?");
+eval("var pug = __webpack_require__(/*! !../../../../node_modules/pug-runtime/index.js */ \"./node_modules/pug-runtime/index.js\");\n\nfunction template(locals) {var pug_html = \"\", pug_mixins = {}, pug_interp;pug_mixins[\"gerarportfolio\"] = pug_interp = function(id, nome){\nvar block = (this && this.block), attributes = (this && this.attributes) || {};\nvar imagens = [];\nfor (pug_interp = 2; pug_interp < arguments.length; pug_interp++) {\n  imagens.push(arguments[pug_interp]);\n}\npug_html = pug_html + \"\\u003Cdiv\" + (\" class=\\\"page\\\"\"+pug.attr(\"id\", 'page-thumbs-'+id, true, true)) + \"\\u003E \\u003Ch3 class=\\\"title\\\"\\u003E\" + (pug.escape(null == (pug_interp = nome) ? \"\" : pug_interp)) + \"\\u003C\\u002Fh3\\u003E\\u003Cdiv class=\\\"container portfolio\\\"\\u003E\\u003Cdiv class=\\\"row align-items-start\\\"\\u003E \";\n// iterate imagens\n;(function(){\n  var $$obj = imagens;\n  if ('number' == typeof $$obj.length) {\n      for (var pug_index0 = 0, $$l = $$obj.length; pug_index0 < $$l; pug_index0++) {\n        var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n      }\n  } else {\n    var $$l = 0;\n    for (var pug_index0 in $$obj) {\n      $$l++;\n      var imagem = $$obj[pug_index0];\npug_html = pug_html + \"\\u003Cdiv class=\\\"col-12 col-sm-6 col-md-4\\\"\\u003E  \\u003Cimg\" + (\" class=\\\"portfolio-img\\\"\"+pug.attr(\"src\", __webpack_require__(\"./res/gfx/thumbs sync recursive ^\\\\.\\\\/.*$\")(\"./\"+id+\"/\"+imagem), true, true)) + \"\\u003E\\u003C\\u002Fdiv\\u003E\";\n    }\n  }\n}).call(this);\n\npug_html = pug_html + \"\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\\u003C\\u002Fdiv\\u003E\";\n};\npug_mixins[\"gerarportfolio\"]('outros', 'thumbs Outros', 'pudim.png');;return pug_html;};\nmodule.exports = template;\n\n//# sourceURL=webpack://site/./src/template/page/portfolio/thumbs-outros.pug?");
 
 /***/ }),
 
@@ -221,13 +221,13 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs sync recursive ^\\.\\/.*$":
+/***/ "./res/gfx/thumbs sync recursive ^\\.\\/.*$":
 /*!***************************************!*\
-  !*** ./res/gfx/Thumbs/ sync ^\.\/.*$ ***!
+  !*** ./res/gfx/thumbs/ sync ^\.\/.*$ ***!
   \***************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("var map = {\n\t\"./animes/apelativo.png\": \"./res/gfx/Thumbs/animes/apelativo.png\",\n\t\"./animes/aqua.png\": \"./res/gfx/Thumbs/animes/aqua.png\",\n\t\"./animes/baki.png\": \"./res/gfx/Thumbs/animes/baki.png\",\n\t\"./animes/eren.png\": \"./res/gfx/Thumbs/animes/eren.png\",\n\t\"./animes/ishida.png\": \"./res/gfx/Thumbs/animes/ishida.png\",\n\t\"./animes/kaigaku.png\": \"./res/gfx/Thumbs/animes/kaigaku.png\",\n\t\"./animes/komisan.png\": \"./res/gfx/Thumbs/animes/komisan.png\",\n\t\"./animes/megumin.png\": \"./res/gfx/Thumbs/animes/megumin.png\",\n\t\"./animes/muzan.png\": \"./res/gfx/Thumbs/animes/muzan.png\",\n\t\"./animes/nezuko.png\": \"./res/gfx/Thumbs/animes/nezuko.png\",\n\t\"./animes/rengoku.png\": \"./res/gfx/Thumbs/animes/rengoku.png\",\n\t\"./animes/rikka.png\": \"./res/gfx/Thumbs/animes/rikka.png\",\n\t\"./animes/sniper.jpg\": \"./res/gfx/Thumbs/animes/sniper.jpg\",\n\t\"./animes/tanjiro.png\": \"./res/gfx/Thumbs/animes/tanjiro.png\",\n\t\"./animes/zenitsu.png\": \"./res/gfx/Thumbs/animes/zenitsu.png\",\n\t\"./games/casa-medieval.png\": \"./res/gfx/Thumbs/games/casa-medieval.png\",\n\t\"./games/celeste.png\": \"./res/gfx/Thumbs/games/celeste.png\",\n\t\"./games/darksouls.png\": \"./res/gfx/Thumbs/games/darksouls.png\",\n\t\"./games/especial-1mes.png\": \"./res/gfx/Thumbs/games/especial-1mes.png\",\n\t\"./games/farcry6.png\": \"./res/gfx/Thumbs/games/farcry6.png\",\n\t\"./games/live-on.png\": \"./res/gfx/Thumbs/games/live-on.png\",\n\t\"./games/skywars.png\": \"./res/gfx/Thumbs/games/skywars.png\",\n\t\"./games/terraria.png\": \"./res/gfx/Thumbs/games/terraria.png\",\n\t\"./outros/pudim.png\": \"./res/gfx/Thumbs/outros/pudim.png\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./res/gfx/Thumbs sync recursive ^\\\\.\\\\/.*$\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/_sync_^\\.\\/.*$?");
+eval("var map = {\n\t\"./animes/apelativo.png\": \"./res/gfx/thumbs/animes/apelativo.png\",\n\t\"./animes/aqua.png\": \"./res/gfx/thumbs/animes/aqua.png\",\n\t\"./animes/baki.png\": \"./res/gfx/thumbs/animes/baki.png\",\n\t\"./animes/dororo.png\": \"./res/gfx/thumbs/animes/dororo.png\",\n\t\"./animes/eren.png\": \"./res/gfx/thumbs/animes/eren.png\",\n\t\"./animes/ishida.png\": \"./res/gfx/thumbs/animes/ishida.png\",\n\t\"./animes/kaigaku.png\": \"./res/gfx/thumbs/animes/kaigaku.png\",\n\t\"./animes/komi-san.png\": \"./res/gfx/thumbs/animes/komi-san.png\",\n\t\"./animes/komisan.png\": \"./res/gfx/thumbs/animes/komisan.png\",\n\t\"./animes/megumin.png\": \"./res/gfx/thumbs/animes/megumin.png\",\n\t\"./animes/muzan.png\": \"./res/gfx/thumbs/animes/muzan.png\",\n\t\"./animes/nezuko.png\": \"./res/gfx/thumbs/animes/nezuko.png\",\n\t\"./animes/rengoku.png\": \"./res/gfx/thumbs/animes/rengoku.png\",\n\t\"./animes/rikka.png\": \"./res/gfx/thumbs/animes/rikka.png\",\n\t\"./animes/sniper.jpg\": \"./res/gfx/thumbs/animes/sniper.jpg\",\n\t\"./animes/tanjiro.png\": \"./res/gfx/thumbs/animes/tanjiro.png\",\n\t\"./animes/zenitsu.png\": \"./res/gfx/thumbs/animes/zenitsu.png\",\n\t\"./games/blaze.png\": \"./res/gfx/thumbs/games/blaze.png\",\n\t\"./games/casa-medieval.png\": \"./res/gfx/thumbs/games/casa-medieval.png\",\n\t\"./games/celeste.png\": \"./res/gfx/thumbs/games/celeste.png\",\n\t\"./games/celeste2.png\": \"./res/gfx/thumbs/games/celeste2.png\",\n\t\"./games/darksouls.png\": \"./res/gfx/thumbs/games/darksouls.png\",\n\t\"./games/especial-1mes.png\": \"./res/gfx/thumbs/games/especial-1mes.png\",\n\t\"./games/farcry6.png\": \"./res/gfx/thumbs/games/farcry6.png\",\n\t\"./games/live-on.png\": \"./res/gfx/thumbs/games/live-on.png\",\n\t\"./games/skywars.png\": \"./res/gfx/thumbs/games/skywars.png\",\n\t\"./games/terraria.png\": \"./res/gfx/thumbs/games/terraria.png\",\n\t\"./outros/pudim.png\": \"./res/gfx/thumbs/outros/pudim.png\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./res/gfx/thumbs sync recursive ^\\\\.\\\\/.*$\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/_sync_^\\.\\/.*$?");
 
 /***/ }),
 
@@ -262,267 +262,333 @@ eval("handleCarrousel()\nfunction handleCarrousel()\n{\n    var myCarousel = doc
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/animes/apelativo.png":
+/***/ "./res/gfx/logo/bitcoin.png":
+/*!**********************************!*\
+  !*** ./res/gfx/logo/bitcoin.png ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/e9da0cb5b52430102346.png\";\n\n//# sourceURL=webpack://site/./res/gfx/logo/bitcoin.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/logo/nano.png":
+/*!*******************************!*\
+  !*** ./res/gfx/logo/nano.png ***!
+  \*******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/02d1023c612aef731619.png\";\n\n//# sourceURL=webpack://site/./res/gfx/logo/nano.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/apelativo.png":
 /*!*********************************************!*\
-  !*** ./res/gfx/Thumbs/animes/apelativo.png ***!
+  !*** ./res/gfx/thumbs/animes/apelativo.png ***!
   \*********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/b9faa4e32378f94cafe5.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/apelativo.png?");
+eval("module.exports = __webpack_require__.p + \"res/2caab5837dd4a75d4ea3.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/apelativo.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/animes/aqua.png":
+/***/ "./res/gfx/thumbs/animes/aqua.png":
 /*!****************************************!*\
-  !*** ./res/gfx/Thumbs/animes/aqua.png ***!
+  !*** ./res/gfx/thumbs/animes/aqua.png ***!
   \****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/70f5d899acfbe0855406.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/aqua.png?");
+eval("module.exports = __webpack_require__.p + \"res/b7a0869a4458c93df391.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/aqua.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/animes/baki.png":
+/***/ "./res/gfx/thumbs/animes/baki.png":
 /*!****************************************!*\
-  !*** ./res/gfx/Thumbs/animes/baki.png ***!
+  !*** ./res/gfx/thumbs/animes/baki.png ***!
   \****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/6f1e54932688348d49bd.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/baki.png?");
+eval("module.exports = __webpack_require__.p + \"res/5f10ebef11b6edeb4f33.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/baki.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/animes/eren.png":
+/***/ "./res/gfx/thumbs/animes/dororo.png":
+/*!******************************************!*\
+  !*** ./res/gfx/thumbs/animes/dororo.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/c504e4dc0818c677bb98.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/dororo.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/eren.png":
 /*!****************************************!*\
-  !*** ./res/gfx/Thumbs/animes/eren.png ***!
+  !*** ./res/gfx/thumbs/animes/eren.png ***!
   \****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/657356436151b239d130.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/eren.png?");
+eval("module.exports = __webpack_require__.p + \"res/6f32b7130db9feae6d5e.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/eren.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/animes/ishida.png":
+/***/ "./res/gfx/thumbs/animes/ishida.png":
 /*!******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/ishida.png ***!
+  !*** ./res/gfx/thumbs/animes/ishida.png ***!
   \******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/67590e0daa578d0f73dd.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/ishida.png?");
+eval("module.exports = __webpack_require__.p + \"res/baff47bc5a87356b2b9d.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/ishida.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/animes/kaigaku.png":
+/***/ "./res/gfx/thumbs/animes/kaigaku.png":
 /*!*******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/kaigaku.png ***!
+  !*** ./res/gfx/thumbs/animes/kaigaku.png ***!
   \*******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/cdeb64f523c72297d3ea.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/kaigaku.png?");
+eval("module.exports = __webpack_require__.p + \"res/543c21ba4b7d89015d4e.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/kaigaku.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/animes/komisan.png":
-/*!*******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/komisan.png ***!
-  \*******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/4b0c03defd7f8a0222bb.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/komisan.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/megumin.png":
-/*!*******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/megumin.png ***!
-  \*******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/40de7d99811f21110152.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/megumin.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/muzan.png":
-/*!*****************************************!*\
-  !*** ./res/gfx/Thumbs/animes/muzan.png ***!
-  \*****************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/3e11761c82f59a4e1513.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/muzan.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/nezuko.png":
-/*!******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/nezuko.png ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/570ceca35f7351cd170d.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/nezuko.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/rengoku.png":
-/*!*******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/rengoku.png ***!
-  \*******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/35977a8b16ebf351ae80.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/rengoku.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/rikka.png":
-/*!*****************************************!*\
-  !*** ./res/gfx/Thumbs/animes/rikka.png ***!
-  \*****************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/be7d9c88591cd6c6f5aa.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/rikka.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/sniper.jpg":
-/*!******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/sniper.jpg ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/223ce702f141a4782302.jpg\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/sniper.jpg?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/tanjiro.png":
-/*!*******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/tanjiro.png ***!
-  \*******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/ad0a434f6ed1e593ca28.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/tanjiro.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/animes/zenitsu.png":
-/*!*******************************************!*\
-  !*** ./res/gfx/Thumbs/animes/zenitsu.png ***!
-  \*******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/1547e0233ea9cb8c0065.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/animes/zenitsu.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/games/casa-medieval.png":
-/*!************************************************!*\
-  !*** ./res/gfx/Thumbs/games/casa-medieval.png ***!
-  \************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/831c1451e0a083244169.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/casa-medieval.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/games/celeste.png":
-/*!******************************************!*\
-  !*** ./res/gfx/Thumbs/games/celeste.png ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/10a88781d344c540c6bf.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/celeste.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/games/darksouls.png":
+/***/ "./res/gfx/thumbs/animes/komi-san.png":
 /*!********************************************!*\
-  !*** ./res/gfx/Thumbs/games/darksouls.png ***!
+  !*** ./res/gfx/thumbs/animes/komi-san.png ***!
   \********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/42b759f1d93c52073ffb.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/darksouls.png?");
+eval("module.exports = __webpack_require__.p + \"res/6bf7421da91d6c697c86.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/komi-san.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/games/especial-1mes.png":
-/*!************************************************!*\
-  !*** ./res/gfx/Thumbs/games/especial-1mes.png ***!
-  \************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/07521c5117fc0724dd48.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/especial-1mes.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/games/farcry6.png":
-/*!******************************************!*\
-  !*** ./res/gfx/Thumbs/games/farcry6.png ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/fba3a38bfd104969f864.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/farcry6.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/games/live-on.png":
-/*!******************************************!*\
-  !*** ./res/gfx/Thumbs/games/live-on.png ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/839fccfb166c00bdbbad.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/live-on.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/games/skywars.png":
-/*!******************************************!*\
-  !*** ./res/gfx/Thumbs/games/skywars.png ***!
-  \******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/47a89477ca0753a40f0d.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/skywars.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/Thumbs/games/terraria.png":
+/***/ "./res/gfx/thumbs/animes/komisan.png":
 /*!*******************************************!*\
-  !*** ./res/gfx/Thumbs/games/terraria.png ***!
+  !*** ./res/gfx/thumbs/animes/komisan.png ***!
   \*******************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/509ce1eb777613d09bdc.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/games/terraria.png?");
+eval("module.exports = __webpack_require__.p + \"res/e7ab6bf49edd12ca4501.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/komisan.png?");
 
 /***/ }),
 
-/***/ "./res/gfx/Thumbs/outros/pudim.png":
+/***/ "./res/gfx/thumbs/animes/megumin.png":
+/*!*******************************************!*\
+  !*** ./res/gfx/thumbs/animes/megumin.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/a3e8151a525e180393f4.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/megumin.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/muzan.png":
 /*!*****************************************!*\
-  !*** ./res/gfx/Thumbs/outros/pudim.png ***!
+  !*** ./res/gfx/thumbs/animes/muzan.png ***!
   \*****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"res/0f54a295764de0c3548b.png\";\n\n//# sourceURL=webpack://site/./res/gfx/Thumbs/outros/pudim.png?");
+eval("module.exports = __webpack_require__.p + \"res/c1e45c11a4775a0ca345.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/muzan.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/nezuko.png":
+/*!******************************************!*\
+  !*** ./res/gfx/thumbs/animes/nezuko.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/1e7d9b889675fd8c1607.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/nezuko.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/rengoku.png":
+/*!*******************************************!*\
+  !*** ./res/gfx/thumbs/animes/rengoku.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/246db3964150d707ccaf.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/rengoku.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/rikka.png":
+/*!*****************************************!*\
+  !*** ./res/gfx/thumbs/animes/rikka.png ***!
+  \*****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/1ded4ab4425c04ebfa7d.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/rikka.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/sniper.jpg":
+/*!******************************************!*\
+  !*** ./res/gfx/thumbs/animes/sniper.jpg ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/de9b14345158c870b311.jpg\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/sniper.jpg?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/tanjiro.png":
+/*!*******************************************!*\
+  !*** ./res/gfx/thumbs/animes/tanjiro.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/982d0daea44956c47017.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/tanjiro.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/animes/zenitsu.png":
+/*!*******************************************!*\
+  !*** ./res/gfx/thumbs/animes/zenitsu.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/d21d9ef5380cc88d5448.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/animes/zenitsu.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/blaze.png":
+/*!****************************************!*\
+  !*** ./res/gfx/thumbs/games/blaze.png ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/b90efe49fe98532d572b.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/blaze.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/casa-medieval.png":
+/*!************************************************!*\
+  !*** ./res/gfx/thumbs/games/casa-medieval.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/aa62a5359686600d1c6b.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/casa-medieval.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/celeste.png":
+/*!******************************************!*\
+  !*** ./res/gfx/thumbs/games/celeste.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/ddd93186e4d9f47b4f8e.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/celeste.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/celeste2.png":
+/*!*******************************************!*\
+  !*** ./res/gfx/thumbs/games/celeste2.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/a421b07bc6c2ef6422d8.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/celeste2.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/darksouls.png":
+/*!********************************************!*\
+  !*** ./res/gfx/thumbs/games/darksouls.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/cdc531ae0c099ef7cbbd.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/darksouls.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/especial-1mes.png":
+/*!************************************************!*\
+  !*** ./res/gfx/thumbs/games/especial-1mes.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/91648c38eb3648a61700.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/especial-1mes.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/farcry6.png":
+/*!******************************************!*\
+  !*** ./res/gfx/thumbs/games/farcry6.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/081fd8367d62aeedba19.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/farcry6.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/live-on.png":
+/*!******************************************!*\
+  !*** ./res/gfx/thumbs/games/live-on.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/31f31f046e5fea9677a4.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/live-on.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/skywars.png":
+/*!******************************************!*\
+  !*** ./res/gfx/thumbs/games/skywars.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/ca042acd175e107d1477.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/skywars.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/games/terraria.png":
+/*!*******************************************!*\
+  !*** ./res/gfx/thumbs/games/terraria.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/399404f79008bacb84ff.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/games/terraria.png?");
+
+/***/ }),
+
+/***/ "./res/gfx/thumbs/outros/pudim.png":
+/*!*****************************************!*\
+  !*** ./res/gfx/thumbs/outros/pudim.png ***!
+  \*****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"res/b8108d6faa1d11fbacb2.png\";\n\n//# sourceURL=webpack://site/./res/gfx/thumbs/outros/pudim.png?");
 
 /***/ }),
 
@@ -534,28 +600,6 @@ eval("module.exports = __webpack_require__.p + \"res/0f54a295764de0c3548b.png\";
 
 "use strict";
 eval("module.exports = __webpack_require__.p + \"res/1a5ee99d6ea198ad8875.ttf\";\n\n//# sourceURL=webpack://site/./res/gfx/font/archivo.ttf?");
-
-/***/ }),
-
-/***/ "./res/gfx/logo/bitcoin.png":
-/*!**********************************!*\
-  !*** ./res/gfx/logo/bitcoin.png ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/1269e31ac7884ded174f.png\";\n\n//# sourceURL=webpack://site/./res/gfx/logo/bitcoin.png?");
-
-/***/ }),
-
-/***/ "./res/gfx/logo/nano.png":
-/*!*******************************!*\
-  !*** ./res/gfx/logo/nano.png ***!
-  \*******************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("module.exports = __webpack_require__.p + \"res/2bde32f1d314f602e044.png\";\n\n//# sourceURL=webpack://site/./res/gfx/logo/nano.png?");
 
 /***/ }),
 
